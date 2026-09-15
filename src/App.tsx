@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import type { Service } from "./types/service";
 import type { Category } from "./types/category";
 import FilterPill from "./components/filterPill";
-import ServiceGrid from "./components/serviceGrid";
+import ServiceGrid from "./components/ServiceGrid";
 
 const RATING_OPTIONS = ["Any", "4.5+", "4.0+", "3.5+"];
 

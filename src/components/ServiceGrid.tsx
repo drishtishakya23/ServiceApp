@@ -1,5 +1,5 @@
 import type { Service } from "../types/service";
-import ServiceCard from "./serviceCard";
+import ServiceCard from "./ServiceCard";
 
 interface ServiceGridProps {
   services: Service[];
